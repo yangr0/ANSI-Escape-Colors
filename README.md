@@ -8,6 +8,8 @@ This is also my first C++ project, hope you like it
 
 `git clone https://github.com/iinc0gnit0/ANSI-Escape-Colors`
 
+`chmod +x main`
+
 # Usage
 
 `./main`
