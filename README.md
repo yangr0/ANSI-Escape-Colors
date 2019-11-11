@@ -6,7 +6,7 @@ This is also my first C++ project, hope you like it
 
 # Installation
 
-`git clone https://github.com/iinc0gnit0/ANSI-Escape-Colors-1-100`
+`git clone https://github.com/iinc0gnit0/ANSI-Escape-Colors`
 
 # Usage
 
