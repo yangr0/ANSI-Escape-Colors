@@ -1,6 +1,6 @@
-# ANSI-Escape-Colors-1-100
+# ANSI-Escape-Colors
 
-Shows all ANSI Escape Colors from 1-100
+Shows all ANSI Escape Colors from 0-100
 
 This is also my first C++ project, hope you like it
 
