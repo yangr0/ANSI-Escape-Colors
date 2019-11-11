@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    for(int i = 0; i < 100; i++)
-        cout << "\033[" << i << ";1m" << "Hello World\n" << "\033[0m";
+    for(int i = 0; i < 101; i++)
+        cout << i << ". " "\033[" << i << "m" << "Hello World\033[0m" << endl;
 }
